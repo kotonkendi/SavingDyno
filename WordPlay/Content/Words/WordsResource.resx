@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Awesome" xml:space="preserve">
+    <value>AWESOME,MEOWS,WAMES,WOMAS,MAWS,MEOW,MEWS,MOWS,SAWM,SMEW,SWAM,WAMES,WOMA,AWEE,AWES,EMES,EMOS,EWES,MAES,MESA,MOAS,OWES,OWSE,SAME,SEAM,SEEM,SEME,SOMA,SOME,WAES,WEES,WOES,EASE,MAW,MEW,MOW,MWA,AWE,EME,EMO,EMS,EWE,MAE,MAS,MEA,MOA,MOS,OMS,OWE,SAW,SEW,SOM,SOW,WAE,WAS,WEE,WOE,WOS,AES,ESE,OES,OSE,SAE,SEA,SEE</value>
+  </data>
+  <data name="Cheetah" xml:space="preserve">
+    <value>CHEETAH,CHETAH,THECAE,CHETH,HATCH,HEATH,CHEAT,TACHE,TEACH,THECA,HATH,HETH,ACHE,CHAT,EACH,ECHE,ECHT,ETCH,TACH,TECH,EATH,HAET,HATE,HEAT,THAE,THEE,CATE,CETE,TACE,HAH,HEH,ETH,HAE,HAT,HETH,THE,ACE,ACT,CAT,CEE,TEC,ATE,EAT,ETA,TAE,TEA,TEE</value>
+  </data>
+  <data name="Crooked" xml:space="preserve">
+    <value>CROOKED,COOKED,CORKED,DOCKER,REDOCK,ROCKED,COOKER,RECOOK,ROOKED,COKED,DRECK,CROOK,OCKER,DROKE,CODER,COOED,CORED,CREDO,DECOR,COOER,RODEO,DECK,DOCK,COKE,COOK,CORK,RECK,ROCK,DORK,DREK,KORE,ROOK,CODE,COED,CORD,CRED,DECO,CERO,CORE,DOER,DOOR,DORE,ODOR,ORDO,REDO,RODE,ROOD,KOR,OKE,COD,DOC,COO,COR,ECO,ORC,REC,ROC,DOE,DOR,ODE,RED,ROD,ORE,ROE,ROO</value>
+  </data>
+  <data name="Dolphin" xml:space="preserve">
+    <value>DOLPHIN,POIND,DHONI,INDOL,HOLP,PHON,PLOD,POND,DHOL,HIND,HOLD,PION,HONI,DINO,DIOL,IDOL,LIDO,LINO,LION,LOID,LOIN,NODI,NOIL,NOLI,OLID,HIP,HOP,PHI,PHO,DIP,DOP,LIP,LOP,NIP,PIN,POD,POL,DOH,HID,HIN,HOD,HON,NOH,POI,DIN,DOL,DON,HOI,LID,LIN,NIL,NOD,OLD,ION,OIL</value>
+  </data>
+  <data name="Goddess" xml:space="preserve">
+    <value>GODDESS,DODGES,DOSSED,DODGE,DOGES,DOSED,DOSES,GESSO,SEGOS,DOGE,DOGS,EDDO,GEDS,GODS,ODDS,DOES,DOSE,DOSS,EGOS,GOES,ODES,SEGO,SEGS,SODS,OSES,DOG,GED,GOD,ODD,DOE,DOS,EDS,EGO,GOS,ODE,ODS,SEG,SOD,ESS,OES,OSE,SOS,</value>
+  </data>
+  <data name="Journey" xml:space="preserve">
+    <value>JOURNEY,ENJOY,YOURN,ONERY,YOURE,ROUEN,JURY,JOEY,JEON,JOUR,JURE,YOUR,OYER,RUNE,YORE,EURO,NERO,ONER,RONE,ROUE,JOY,JUN,JEU,JOE,RYU,YEN,YON,YOU,RUN,RYE,URN,YER,EON,ERN,NOR,ONE,OUR,RUE,OER,ORE,REO,ROE,</value>
+  </data>
+  <data name="Kitchen" xml:space="preserve">
+    <value>KITCHEN,ETHNIC,CHINK,KENCH,KETCH,THICK,THINK,CHINE,KITHE,NICHE,TENCH,ETHIC,THEIN,THINE,HECK,HICK,NECK,NICK,TICK,CHIN,HIKE,INCH,KHET,KITH,CHIT,ECHT,ETCH,ITCH,KENT,KINE,KNIT,TECH,TICH,CENT,CINE,KITE,NICE,TIKE,CITE,ETIC,HENT,HINT,THEN,THIN,NITE,TEIN,TINE,ICK,KHI,CHI,HIC,ICH,INK,KEN,KIN,NEK,TCH,KIT,HEN,HIN,ICE,NTH,TIC,ETH,HET,HIE,HIT,THE,NET,NIT,TEN,TIN,TIE</value>
+  </data>
+  <data name="Mystery" xml:space="preserve">
+    <value>MYSTERY,STYMY,TREYS,TYERS,TYRES,TERMS,TREMS,EYRY,RYES,STEY,STYE,TREY,TYER,TYES,TYRE,REMS,STEM,TERM,TREM,ERST,REST,RETS,TRES,RYE,STY,TRY,TYE,YER,YES,YET,EMS,MES,MET,REM,ERS,EST,RES,RET,SER,SET,TES</value>
+  </data>
+  <data name="Science" xml:space="preserve">
+    <value>SCIENCE,SCENIC,NIECES,CENSE,CINES,NIECE,SCENE,SINCE,SEINE,CINE,NICE,CEES,ICES,SICE,ESNE,SEEN,SENE,SINE,CEE,CIS,ICE,SEC,SIC,ENS,INS,NEE,SEN,SIN,ESE,SEE,SEI</value>
+  </data>
+  <data name="Uniform" xml:space="preserve">
+    <value>UNIFORM,INFORM,FORUM,MINOR,MOURN,ONIUM,FIRM,FORM,FROM,FINO,FIRN,FOIN,FOUR,INFO,MORN,MUNI,MUON,NORM,INRO,IRON,NOIR,NORI,RUIN,FIN,FIR,FON,FOR,FOU,FRO,FUN,FUR,RIF,MIR,MOI,MON,MOR,MUN,NIM,NOM,RIM,ROM,RUM,ION,NOR,OUR,RIN,RUN,UNI,URN</value>
+  </data>
+</root>

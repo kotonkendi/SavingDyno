@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WordPlay.States.BaseState">
+    <Position X="14.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>States\BaseState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WordPlay.States.GameLobbyState">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAgAABAAAAAAA=</HashCode>
+      <FileName>States\GameLobbyState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WordPlay.States.GameState">
+    <Position X="18.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAgAAACAAgSAAAiBgACAIACAAKABAAQAABCCKAEAA=</HashCode>
+      <FileName>States\GameState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WordPlay.States.InfoState">
+    <Position X="10.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAABCCAAAAAABIAAAAAQBAAAAEAIAAAQAAIAA=</HashCode>
+      <FileName>States\InfoState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WordPlay.States.ProfileState">
+    <Position X="12.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACEAAAAAAAAAAAAAAAAAAEAAEAAFAAA=</HashCode>
+      <FileName>States\ProfileState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WordPlay.States.RegistrationState">
+    <Position X="16.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAIQAAAAgAAAABAAAAgAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>States\RegistrationState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WordPlay.States.State">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAAAAEIgABAABBAABACAAAAAAAAAAAACAAAAQ=</HashCode>
+      <FileName>States\State.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
